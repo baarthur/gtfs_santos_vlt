@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+.DS_Store
+
+data/*
+!data/shapes_qgis.gpkg
+!data/stops_qgis.gpkg
