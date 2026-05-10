@@ -8,3 +8,4 @@
 data/*
 !data/shapes_qgis.gpkg
 !data/stops_qgis.gpkg
+.positai

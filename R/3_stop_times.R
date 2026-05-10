@@ -82,6 +82,7 @@ length_l1 <- shapes_sf |>
 avg_speed <- units::drop_units(length_l1)/block_time_l1
 avg_speed <- round(avg_speed)
 
+# 666666666666666
 zel <- shapes_sf |>
   st_drop_geometry() |> 
   cross_join(frequencies) |> 
